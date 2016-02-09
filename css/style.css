@@ -1,14 +1,15 @@
 body {
+	background-color: #4d4d4d;
   padding: 0;
   margin: 0;
-  font-family: sans-serif,Arial;
+  font-family: cursive;
  }
 header{
 	padding: 15px 0;
 	margin:0;
 	color: #fff;
 	border-bottom: solid #333 1px;
-	background: #333;
+	background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/dark-grey-damask-pattern.jpg");
 }
 .logo{
 	width: 80px;
@@ -51,10 +52,11 @@ nav a:hover{
  }
 h4 {
 	text-align: center;
-	font-family: Verdana;
+	font-family: cursive;
 }
 .gray{
-	background: #eee;
+	background-image:url("http://previews.123rf.com/images/yaviki/yaviki1208/yaviki120800017/14937425-Pattern-of-gray-circles-Stock-Vector-pattern-patterns-geometric.jpg"); 
+	background-size: 100%;
     border-top: solid #111 1px;
     border-bottom: solid #bbb 1px;
     padding: 10px;
@@ -65,7 +67,7 @@ font-size: 12px;
 }
 h3{
 	font-size: 20px;
-	font-family: Verdana;
+	font-family: cursive;
 }
 .img2{
 	height: 110px;
@@ -88,7 +90,7 @@ h3{
 }
 footer {
 	padding: 20px 35px;
-	background: #585858;
+	background-image: url("http://previews.123rf.com/images/yaviki/yaviki1208/yaviki120800017/14937425-Pattern-of-gray-circles-Stock-Vector-pattern-patterns-geometric.jpg");
 	color: #ffffff;	
 	font-size: 17px;
 }
@@ -119,7 +121,7 @@ footer a:hover {
 	font-size: 14px;
 	padding: 5px;
 	color: #8c8c8c;
-	font-family: sans-serif;
+	font-family: cursive;
 }
 hr {
 	border-top: .5px solid #bfbfbf;
@@ -134,17 +136,26 @@ hr {
 	margin-bottom: 15px;
 }
 #icons{
-	width:15px;
-	height: 15px;
+	width:35px;
+	height: 35px;
 	margin-right: 8px;
 }
 .first{
-	margin-left: -25px;
+	margin-left: -70px;
 }
 .side1 a, .side2 a{
 	font-size: 14px;
 }	
 a {
-	color: #538cc6;
+	color: #99004d;
 	text-decoration: none;
+	text-shadow:1px 1px #000;
+}
+.video
+{
+	position: relative;
+	top:30px;
+}
+section{
+	margin-bottom: -180px;
 }
