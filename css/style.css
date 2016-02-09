@@ -1,0 +1,150 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif,Arial;
+ }
+header{
+	padding: 15px 0;
+	margin:0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background: #333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin:0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a {
+	background: #585858;
+}
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color:#eee;
+	text-shadow:2px 2px 4px #000;
+}
+nav a:hover{
+	color: #fff;
+}
+.img1{
+	width:200px;
+	height:200px;
+	margin: 20px;
+	padding: 3px;
+	border: solid #999999 1px;
+ }
+h4 {
+	text-align: center;
+	font-family: Verdana;
+}
+.gray{
+	background: #eee;
+    border-top: solid #111 1px;
+    border-bottom: solid #bbb 1px;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.chico{
+font-size: 12px;
+}
+h3{
+	font-size: 20px;
+	font-family: Verdana;
+}
+.img2{
+	height: 110px;
+	width:110px ;
+	padding: 3px;
+	border: solid 1px #ccc;
+}
+.pad h5 {
+	font-size: 13px;
+	line-height: 18px;
+	margin: -5px 0 5px 0;
+	font-weight: 400;
+}
+.pad{
+	text-align: center;
+}
+.pad .col-2{
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+footer {
+	padding: 20px 35px;
+	background: #585858;
+	color: #ffffff;	
+	font-size: 17px;
+}
+
+.linksb {
+  text-align: center;
+  margin: 15px;
+  font-size: 15px;	
+}
+
+.copyr {
+  margin: 20px ;
+  text-align: center;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+
+footer a {
+  color: #d9d9d9;
+}
+
+footer a:hover {
+	color: #fff;
+}
+.widgets{
+	position: relative;
+	top:-1000px;
+	font-size: 14px;
+	padding: 5px;
+	color: #8c8c8c;
+	font-family: sans-serif;
+}
+hr {
+	border-top: .5px solid #bfbfbf;
+	margin-bottom: 5px;
+}
+.icons{
+	padding-bottom: 7px;
+}
+.side1, .side2{
+	position: relative;
+	left:-30px;
+	margin-bottom: 15px;
+}
+#icons{
+	width:15px;
+	height: 15px;
+	margin-right: 8px;
+}
+.first{
+	margin-left: -25px;
+}
+.side1 a, .side2 a{
+	font-size: 14px;
+}	
+a {
+	color: #538cc6;
+	text-decoration: none;
+}
