@@ -1,5 +1,6 @@
 body {
-	background-color: #4d4d4d;
+	background-color: black;
+	background-size: 100%;
   padding: 0;
   margin: 0;
   font-family: cursive;
@@ -9,7 +10,7 @@ header{
 	margin:0;
 	color: #fff;
 	border-bottom: solid #333 1px;
-	background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/dark-grey-damask-pattern.jpg");
+	background-color: #4d4d4d;
 }
 .logo{
 	width: 80px;
@@ -55,7 +56,7 @@ h4 {
 	font-family: cursive;
 }
 .gray{
-	background-image:url("http://previews.123rf.com/images/yaviki/yaviki1208/yaviki120800017/14937425-Pattern-of-gray-circles-Stock-Vector-pattern-patterns-geometric.jpg"); 
+	background-image:url("https://secure.static.tumblr.com/ed6365a08b9375798c1c9350af3a06a5/t9b1giq/7R4npwpom/tumblr_static_tumblr_static_3i2l1i3c7x8g04w4gs4gcgwg8_640.gif"); 
 	background-size: 100%;
     border-top: solid #111 1px;
     border-bottom: solid #bbb 1px;
@@ -90,8 +91,8 @@ h3{
 }
 footer {
 	padding: 20px 35px;
-	background-image: url("http://previews.123rf.com/images/yaviki/yaviki1208/yaviki120800017/14937425-Pattern-of-gray-circles-Stock-Vector-pattern-patterns-geometric.jpg");
-	color: black;	
+	background-image: url("http://31.media.tumblr.com/53eb0b8db114c9065c9ee8e382b837e5/tumblr_najbrk5NSV1txcb93o1_500.gif");
+	color: #b3b3b3;	
 	font-size: 17px;
 }
 
@@ -145,6 +146,8 @@ hr {
 }
 .side1 a, .side2 a{
 	font-size: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
 }	
 a {
 	color: #99004d;
