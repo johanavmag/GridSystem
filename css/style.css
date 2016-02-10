@@ -118,7 +118,7 @@ footer a:hover {
 }
 .widgets{
 	position: relative;
-	top:-1000px;
+	top:-900px;
 	font-size: 14px;
 	padding: 5px;
 	color: #8c8c8c;
@@ -161,7 +161,4 @@ a {
 	border:3px dotted #99004d;
 	width: 425px;
 	height: 323px;
-}
-section{
-	margin-bottom: -180px;
 }
